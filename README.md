@@ -1,4 +1,4 @@
-# Sheild insurance Analysis
+# Shield insurance Analysis
 ## Project Overview
 
 The objective of the Shield Insurance Analysis project was to analyze insurance data to extract actionable insights that could benefit Shield Insurance, a company specializing in offering various insurance policies for financial protection.
